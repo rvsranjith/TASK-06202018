@@ -1,0 +1,70 @@
+.root {
+	-fx-padding: 15;
+	-fx-background-color: white;
+}
+
+.header {
+	-fx-font-size: 21px;
+}
+
+.subheader {
+	-fx-padding: -5 0 15 0;
+	-fx-font-size: 11px;
+}
+
+.btn {
+	-fx-translate-x: 135px;
+	-fx-translate-y: -5px;
+}
+
+.controlArea {
+	-fx-translate-y: 30px;
+}
+
+.userInputTextArea {
+	-fx-wrap-text: true;
+}
+
+.controlAreaDiv {
+	-fx-translate-y: 1px;
+	-fx-translate-x: -5px;
+}
+
+.rightRoot {
+	-fx-padding: 0 5;
+}
+
+.results {
+	-fx-font-weight: bold;
+}
+
+.totalWordsLabel {
+	-fx-translate-y: 10px;
+}
+
+.uniqueWordsLabel {
+	-fx-translate-y: 9px;
+}
+
+.totalCharsLabel {
+	-fx-translate-y: 16px;
+}
+
+.wordFrequencyLabel {
+	-fx-translate-y: 65px;
+}
+
+.rightRootDiv2 {
+	-fx-translate-y: 65px;
+}
+
+.scrollpane {
+	-fx-translate-y: 95px;
+	-fx-background: white;
+	-fx-background-color: white;
+}
+
+.scrollpaneOutputNode {
+	-fx-wrap-text: true;
+	-fx-background-color: white;
+}
